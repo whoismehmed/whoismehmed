@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehmed
 - 🌱 I’m currently learning everything
-- 📫 How to reach me email(m.karkhaneh77@gmail.com)
+- 📫 How to reach me email(mailto:m.karkhaneh77@gmail.com)
 
 <!---
 whoismehmed/whoismehmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
